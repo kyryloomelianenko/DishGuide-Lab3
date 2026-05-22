@@ -1,0 +1,11 @@
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\bin\Debug\net10.0\DishGuide.deps.json
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\bin\Debug\net10.0\DishGuide.dll
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\bin\Debug\net10.0\DishGuide.pdb
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\obj\Debug\net10.0\DishGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\obj\Debug\net10.0\DishGuide.AssemblyInfoInputs.cache
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\obj\Debug\net10.0\DishGuide.AssemblyInfo.cs
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\obj\Debug\net10.0\DishGuide.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\obj\Debug\net10.0\DishGuide.dll
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\obj\Debug\net10.0\refint\DishGuide.dll
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\obj\Debug\net10.0\DishGuide.pdb
+C:\Users\Artem\Desktop\учеба\laba3algoritmi\laba3Disguide\DishGuide\obj\Debug\net10.0\ref\DishGuide.dll

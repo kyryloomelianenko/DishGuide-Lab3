@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DishGuide.Tests/DishGuide.Tests.csproj" />
+  <Project Path="DishGuide/DishGuide.csproj" />
+</Solution>

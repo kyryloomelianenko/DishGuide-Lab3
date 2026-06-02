@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide.Tests\\DishGuide.Tests.csproj": {}
+    "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide.Tests\\DishGuide.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide.Tests\\DishGuide.Tests.csproj": {
+    "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide.Tests\\DishGuide.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide.Tests\\DishGuide.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide.Tests\\DishGuide.Tests.csproj",
         "projectName": "DishGuide.Tests",
-        "projectPath": "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide.Tests\\DishGuide.Tests.csproj",
-        "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide.Tests\\obj\\",
+        "projectPath": "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide.Tests\\DishGuide.Tests.csproj",
+        "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide\\DishGuide.csproj": {
-                "projectPath": "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide\\DishGuide.csproj"
+              "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide\\DishGuide.csproj": {
+                "projectPath": "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide\\DishGuide.csproj"
               }
             }
           }
@@ -365,17 +365,17 @@
         }
       }
     },
-    "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide\\DishGuide.csproj": {
+    "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide\\DishGuide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide\\DishGuide.csproj",
+        "projectUniqueName": "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide\\DishGuide.csproj",
         "projectName": "DishGuide",
-        "projectPath": "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide\\DishGuide.csproj",
-        "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Artem\\Desktop\\учеба\\laba3algoritmi\\laba3Disguide\\DishGuide\\obj\\",
+        "projectPath": "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide\\DishGuide.csproj",
+        "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sasha\\Downloads\\DishGuide-Lab3\\DishGuide\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
